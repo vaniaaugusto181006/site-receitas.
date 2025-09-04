@@ -1,3 +1,12 @@
+ receita-fruta
+## Receita de Salada de Frutas
+- Morango
+- Banana
+- Maçã
+- Abacaxi
+- Mamão
+- Manga
+- Leite condensado
 //Receita macarrão ao alho e óleo
 
 Ingredientes
@@ -12,3 +21,4 @@ Pimenta-do-reino preta
 Salsinha a gosto
 Cebolete a gosto
 1 limão siciliano
+main
