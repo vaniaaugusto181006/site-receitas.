@@ -1,4 +1,4 @@
-//Rceita macarrão ao alho e óleo
+//Receita macarrão ao alho e óleo
 
 Ingredientes
 
